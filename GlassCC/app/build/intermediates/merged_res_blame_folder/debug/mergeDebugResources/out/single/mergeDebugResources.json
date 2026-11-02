@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.glasscc.app-debug-4:/xml_accessibility_config.xml.flat",
+        "source": "com.glasscc.app-main-6:/xml/accessibility_config.xml"
+    }
+]

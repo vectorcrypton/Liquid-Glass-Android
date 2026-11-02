@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.glasscc.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/workspaces/Liquid-Glass-Android/GlassCC/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,74",
+                        "endColumns": "57,136",
+                        "endOffsets": "69,206"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,136",
+                        "endOffsets": "108,245"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+com.glasscc.app-pngs-0 /workspaces/Liquid-Glass-Android/GlassCC/app/build/generated/res/pngs/debug
+com.glasscc.app-resValues-1 /workspaces/Liquid-Glass-Android/GlassCC/app/build/generated/res/resValues/debug
+com.glasscc.app-packageDebugResources-2 /workspaces/Liquid-Glass-Android/GlassCC/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.glasscc.app-packageDebugResources-3 /workspaces/Liquid-Glass-Android/GlassCC/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.glasscc.app-debug-4 /workspaces/Liquid-Glass-Android/GlassCC/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.glasscc.app-debug-5 /workspaces/Liquid-Glass-Android/GlassCC/app/src/debug/res
+com.glasscc.app-main-6 /workspaces/Liquid-Glass-Android/GlassCC/app/src/main/res
